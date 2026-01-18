@@ -1,13 +1,20 @@
-# Student Management System (C)
+A complete CLI-based Student Management System built with C and file handling.
 
-A CLI-based student management system built using C and file handling.
+# Key-Features
+1. Add new student records
 
-## Features
-- Add student
-- View students
-- Persistent storage using file
+2.View all students in tabular format
 
-## How to Run
-gcc main.c student.c -o sms.exe
-sms
+3.Search students by ID, name, or course
 
+4. Update existing records
+
+5. Delete student records
+
+6. Sort by ID, name, grade, or age
+
+7. View statistics and analytics
+
+8. Automatic file storage
+
+🎨 User-friendly interface
