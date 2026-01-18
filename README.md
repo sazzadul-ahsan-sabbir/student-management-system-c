@@ -17,4 +17,4 @@ A complete CLI-based Student Management System built with C and file handling.
 
 8. Automatic file storage
 
-🎨 User-friendly interface
+9. User-friendly interface
